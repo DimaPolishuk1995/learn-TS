@@ -1,3 +1,4 @@
 *.js
 !_*.js
 ./build
+package-lock.json
